@@ -1,0 +1,3 @@
+ECHO is on.
+hi,this is first insertion 
+second line 
